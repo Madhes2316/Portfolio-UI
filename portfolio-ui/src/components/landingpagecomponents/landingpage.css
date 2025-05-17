@@ -1,0 +1,23 @@
+.mainLandingPage-div{
+    padding: 30px;
+    background-color: #00FF9C;
+    border-radius: 0px 0px 30px 30px;
+}
+
+.landingPage-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.landingPage-div img{
+    height: 250px;
+}
+
+.landingPage-div span{
+    font-family: 'Sacremento',sans-serif;
+    font-size: xx-large;
+    font-weight: 400;
+    color: black;
+}

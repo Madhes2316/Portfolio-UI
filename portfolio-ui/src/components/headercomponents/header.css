@@ -1,0 +1,19 @@
+.mainHeader-div{
+    padding: 20px;
+    background-color: #00FF9C;
+    position: relative;
+}
+
+.header-div ul{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-div ul li{
+    list-style: none;
+    font-family: Poppins, sans-serif;
+    font-size: small;
+    /* font-style: italic; */
+}

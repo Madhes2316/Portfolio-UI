@@ -1,0 +1,49 @@
+.mainAbout-div{
+    background-color: #B6FFA1;
+    border-radius: 30px 30px 0px 0px;
+    padding: 10px;
+}
+
+.about-div{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.img-div, .text-div {
+    flex: 1 1 200px; /* allow shrink/grow and set min-width */
+}
+
+.img-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.text-div h2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.img-div img{
+    width: 240px;
+    height: 240px;
+    border-radius: 30px;
+}
+
+@media (max-width: 600px) {
+    .about-div {
+        gap: 20px;
+    }
+
+    .img-div img {
+        width: 150px;
+        height: auto;
+    }
+}
