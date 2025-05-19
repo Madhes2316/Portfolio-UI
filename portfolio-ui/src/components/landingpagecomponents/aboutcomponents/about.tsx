@@ -11,7 +11,7 @@ const About = () => {
                     <img src="https://img.pikbest.com/origin/10/39/14/59WpIkbEsTVxf.jpg!w700wp" alt="" />
                 </div>
                 <div className='text-div'>
-                    <h2>About me</h2>
+                    <h2>About me :</h2>
                     <br />
                     <span>{aboutMeText}</span>
                     <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque quam eos autem? Earum magni accusantium delectus sapiente praesentium in fugit distinctio cum officia beatae, perferendis, nam vel, illo ut eum.</span>

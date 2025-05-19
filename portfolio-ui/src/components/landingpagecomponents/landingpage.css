@@ -1,6 +1,6 @@
 .mainLandingPage-div{
     padding: 30px;
-    background-color: #00FF9C;
+    background-color: black ;
     border-radius: 0px 0px 30px 30px;
 }
 
@@ -19,5 +19,5 @@
     font-family: 'Sacremento',sans-serif;
     font-size: xx-large;
     font-weight: 400;
-    color: black;
+    color: white;
 }
