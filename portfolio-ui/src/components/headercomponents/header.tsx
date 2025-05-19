@@ -21,7 +21,7 @@ const Header = () =>{
         },
         {
             id:5,
-            item:'interview prep'
+            item:'interview'
         },
     ]
 
