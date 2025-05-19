@@ -1,5 +1,5 @@
 .mainLandingPage-div{
-    padding: 70px;
+    padding: 80px;
     background-color: black ;
     border-radius: 0px 0px 30px 30px;
 }
@@ -20,4 +20,8 @@
     font-size: xx-large;
     font-weight: 400;
     color: white;
+}
+
+.role-span{
+    font-size: x-large !important;
 }
